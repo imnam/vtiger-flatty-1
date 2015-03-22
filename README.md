@@ -10,6 +10,6 @@ This is a flat and response theme for vtiger 6 login page
 1.  Replace "/layouts/vlayout/modules/Users/Login.tpl" by "flatty-1/Login.tpl"
     You can backup your current file by rename it to Login_old.tpl
     
-2.  Copy flatty-1/flatty-1 to /layouts/vlayout/modules/Users/resources/
+2.  Copy "flatty-1/flatty-1" to "/layouts/vlayout/modules/Users/resources/"
 
 3.  Open login page to see the changes
